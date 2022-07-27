@@ -1,4 +1,4 @@
-# Reddit-Video-Creator
+# RedditVidBot
 Automatically creates a video which reads out comments in a reddit thread overbackground gameplay, just like you'd see in youtube shorts or on tiktok
 
 This isn't actively being worked on, however the biggest improvement to be made is to automatically find a series of comments that would make the video 30 seconds long
@@ -14,12 +14,16 @@ Here's how it works:
 # Imporant Info
 It uses python3 and was tested on ubuntu.
 
-It takes about 30 seconds to generate a video, however this all depends on comment length
+It takes about 2 minutes to generate a video, however this all depends on comment length
 
 All necessary libraries are listed at the top imports
 
-# Example of output
+# How to use:
+1. Run pip install discord-webhook pytube moviepy praw playwright mutagen gtts colorama
+2. Run playwright install
+3. Launch .py file
 
+# Example of output
 
 https://user-images.githubusercontent.com/40571030/175141970-2bfffd38-9501-4d13-ae44-84c3f4105ce7.mp4
 
