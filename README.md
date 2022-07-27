@@ -3,7 +3,7 @@ Automatically creates a video which reads out comments in a reddit thread overba
 
 This isn't actively being worked on, however the biggest improvement to be made is to automatically find a series of comments that would make the video 30 seconds long
 
-Here's how it works:
+# How it works:
 
 1. Find one of the top 10 current posts on hot in AskReddit
 2. Using DOM elements, takes a screenshot of the post title and top comment
